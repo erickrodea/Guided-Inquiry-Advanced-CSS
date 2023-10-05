@@ -1,0 +1,27 @@
+ .flag {
+     border: solid black;
+     width: 1000px;
+     height: 450px;
+     border-collapse: collapse;
+ }
+
+ .red {
+     background-color: red;
+     height: 40px;
+     width: 150px;
+
+ }
+
+ .stars {
+     position: absolute;
+
+ }
+
+ img {
+     height: 1vmin;
+ }
+
+ .white {
+     height: 40px;
+     width: 150px;
+ }
